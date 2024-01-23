@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365990470052",
+    "project_id": "capture-voca2",
+    "storage_bucket": "capture-voca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365990470052:android:18427a6e7ef03e0188a131",
+        "android_client_info": {
+          "package_name": "com.strawberryCodeCake.capturevoca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgZzl2N3M70y1d9MlnzZ1mV26iBeHza2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
